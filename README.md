@@ -81,8 +81,7 @@ I'm Ganesh Kale a Full Stack Web Developer & Competitive Coder I Spend Most Of M
 #### Coding Stats
 
 <!--START_SECTION:waka-->
-```text
-```
+
 <!--END_SECTION:waka-->
 
 #### Github Stats
