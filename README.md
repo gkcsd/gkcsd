@@ -2,10 +2,6 @@
 
 I'm Ganesh Kale a Full Stack Web Developer & Competitive Coder I Spend Most Of My Time Coding Outstanding Projects, DataStructure & Algorithm Problems
 
-:mailbox: Reach me out!
-
-[![Linkedin Badge](https://img.shields.io/badge/-gkcsd-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gkcsd) [![Twitter Badge](https://img.shields.io/badge/-@gkcsd-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/gkcsd_)](https://twitter.com/gkcsd_) [![Mail Badge](https://img.shields.io/badge/-@igkcsd-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/igkcsd) [![Mail Badge](https://img.shields.io/badge/-ganeshkale-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:kaleg2025@gmail.com)
-
 <!-- Blog & Portfolio -->
 
 [My Portfolio](https://ganeshkale.netlify.app/)
@@ -78,18 +74,10 @@ I'm Ganesh Kale a Full Stack Web Developer & Competitive Coder I Spend Most Of M
 
 <br >
 
-#### Coding Stats
-
-<!--START_SECTION:waka-->
-
-<!--END_SECTION:waka-->
-
 #### Github Stats
 
 [![Ganesh's github stats](https://github-readme-stats.vercel.app/api?username=gkcsd&hide=contribs,prs&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
+:mailbox: Reach Me Out!
 
-[reactplaylist]: https://www.youtube.com/watch?v=KxXXEL-k47Y&list=PLvXDmnBbOF7RnYiZvDwl2Pzcs2kfi10wd
-[vscodetutorial]: https://www.youtube.com/watch?v=Bkie2ai8qeE&t=8s
-[htmltutorial]: https://www.youtube.com/watch?v=VK6MXVxOsws&t=27s
-[javascripttutorial]: https://www.youtube.com/watch?v=D-LHKvmX37E
+[![Linkedin Badge](https://img.shields.io/badge/-gkcsd-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gkcsd) [![Twitter Badge](https://img.shields.io/badge/-@gkcsd-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/gkcsd_)](https://twitter.com/gkcsd_) [![Mail Badge](https://img.shields.io/badge/-@igkcsd-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/igkcsd) [![Mail Badge](https://img.shields.io/badge/-ganeshkale-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:kaleg2025@gmail.com)
