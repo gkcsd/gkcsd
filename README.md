@@ -44,8 +44,8 @@ I'm Ganesh Kale a Full Stack Web Developer & Competitive Coder I Spend Most Of M
 
 <img align="left" width="28px" src="https://img.icons8.com/color/48/000000/mongodb.png"/>
 
-<br />
-<br />
+<br>
+<br>
 
 ### Tools:
 
@@ -63,8 +63,8 @@ I'm Ganesh Kale a Full Stack Web Developer & Competitive Coder I Spend Most Of M
 
 <img align="left" width="30px" src="https://img.icons8.com/color/48/000000/github--v1.png"/>
 
-<br />
-<br />
+<br>
+<br>
 
 #### Bizness
 - :email: kaleg2025@gmail.com
