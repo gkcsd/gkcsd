@@ -42,8 +42,10 @@ I'm Ganesh Kale a Full Stack Web Developer & Competitive Coder I Spend Most Of M
 
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"/>
 
-<img align="left" width="28px" src="https://img.icons8.com/color/48/000000/mongodb.png"/>
+<img align="left" width="28px" src="https://img.icons8.com/color/48/000000/mongodb.png"/>< br/>
 
+<br />
+<br />
 
 ### Tools:
 
