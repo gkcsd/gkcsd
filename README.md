@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" width="300px" />
 
-I'm Ganesh Kale a Full Stack Web Developer & Competitive Coder I Spend Most Of My Time Coding Outstanding Projects & Solving DataStructure & Algorithm Problems.
+I'm Ganesh Kale a Modern Data Engineer, Full Stack Web Developer & Competitive Coder I Spend Most Of My Time Coding Outstanding Projects & Solving DataStructure & Algorithm Problems.
 
 <!-- Blog & Portfolio -->
 
